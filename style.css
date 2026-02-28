@@ -1,0 +1,34 @@
+body{
+  font-family: Monospace;
+  align-content: center;
+  
+}
+.div1{
+  backgrond-color: white;
+  border-radius: 12px;
+  box-shadow: 2px,2px,2px,2px;
+}
+.inp{
+  font-family: Monospace;
+  border: solid black 1px;
+  outline-color: beige;
+  align-content: center;
+  justify-content: center;
+  width: 100%;
+  padding: 2%;
+  height: 45%;
+  border-radius: 12px
+}
+.button{
+  font-family: Monospace;
+  background: none;
+  border: solid black 1px;
+  width: 45%;
+  border-radius: 12px;
+  
+}
+.button:hover{
+  background-color: beige;
+}
+
+
